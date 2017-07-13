@@ -1,0 +1,47 @@
+# File Summary
+File Type: SureSelect DNA Design Report
+Created By: SureSelect DNA Advanced Design Wizard
+User: Suzanne.Drury@gosh.nhs.uk
+Workgroup: GOSH-Regional Molecular Genetics
+Folder: GOSH-Regional Molecular Genetics
+Timestamp: 12-Oct-2015
+
+# Design Summary
+Design Name: SMA_CF
+Species: H. sapiens (H. sapiens, hg19, GRCh37, February 2009)
+
+# Target Summary
+1 Target IDs resolved to 1 targets comprising 28 regions.
+0 Target IDs were not found.
+Region Size: 5.135 kbp
+
+# Probe Summary
+Total Probes: 220
+Total Probes Size: 7.536 kbp
+Recommended Minimum Sequencing per Sample: 1.507 Mbp
+
+# Target Parameters
+Databases: RefSeq, Ensembl, CCDS, Gencode, VEGA, SNP, CytoBand
+Region: Coding Exons
+Region Extension: 10 bases from 3' end and 10 bases from 5' end.
+Allow Synonyms: No
+
+# Probe Tiling Parameters
+Tiling density: 5x
+Masking: Most Stringent
+Boosting: MaximizePerformance
+Extension into repeats: 20
+Strand: Sense
+
+# Target and Probe Details
+#    TargetID: The identifier entered in the Targets list.
+#    Interval: The genomic interval of the target.
+#    Regions: The number of regions within this target.
+#    Size: The total size (in base pairs) of the regions.
+#    Database(s): The databases in which this target was found.
+#    Coverage: The percentage of bases overlapped by probes extended by +/- 100 base pairs to represent likely capture.
+#    HighCoverage: Number of regions with overlap >= 90%.
+#    LowCoverage: Number of regions with overlap < 90%.
+
+TargetID	Interval	Regions	Size	Databases	Coverage	HighCoverage	LowCoverage
+CFTR	chr7:117120139-117355923	28	5135	CCDS, Ensembl, Gencode, RefSeq, VEGA	100.0	28	0

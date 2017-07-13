@@ -1,0 +1,63 @@
+# File Summary
+File Type: SureSelect DNA Design Report
+Created By: SureSelect DNA Probegroup Wizard
+User: Suzanne.Drury@gosh.nhs.uk
+Workgroup: GOSH-Regional Molecular Genetics
+Folder: GOSH-Regional Molecular Genetics
+Timestamp: 16-Dec-2014
+
+# Design Summary
+Probegroup Name: NIPD - HBB SNPs low stringency
+Species: H. sapiens (H. sapiens, hg19, GRCh37, February 2009)
+
+# Target Summary
+17 Target IDs resolved to 17 targets comprising 17 regions.
+0 Target IDs were not found.
+Region Size: 357 bp
+
+# Probe Summary
+Total Probes: 101
+Total Probes Size: 3.479 kbp
+Recommended Minimum Sequencing per Sample: 695.800 kbp
+
+# Target Parameters
+Databases: RefSeq, Ensembl, CCDS, Gencode, VEGA, SNP, CytoBand
+Region: Coding Exons
+Region Extension: 10 bases from 3' end and 10 bases from 5' end.
+Allow Synonyms: No
+
+# Probe Tiling Parameters
+Tiling density: 5x
+Masking: Least Stringent
+Boosting: MaximizePerformance
+Extension into repeats: 20
+Strand: Sense
+
+# Target and Probe Details
+#    TargetID: The identifier entered in the Targets list.
+#    Interval: The genomic interval of the target.
+#    Regions: The number of regions within this target.
+#    Size: The total size (in base pairs) of the regions.
+#    Database(s): The databases in which this target was found.
+#    Coverage: The percentage of bases overlapped by probes extended by +/- 100 base pairs to represent likely capture.
+#    HighCoverage: Number of regions with overlap >= 90%.
+#    LowCoverage: Number of regions with overlap < 90%.
+
+TargetID	Interval	Regions	Size	Databases	Coverage	HighCoverage	LowCoverage
+rs10769687	chr11:6334724-6334744	1	21	SNP	100.0	1	0
+rs11034951	chr11:4991128-4991148	1	21	SNP	100.0	1	0
+rs12287351	chr11:4858521-4858541	1	21	SNP	100.0	1	0
+rs1598507	chr11:4993047-4993067	1	21	SNP	100.0	1	0
+rs1598508	chr11:4993285-4993305	1	21	SNP	100.0	1	0
+rs2167913	chr11:5912966-5912986	1	21	SNP	100.0	1	0
+rs2340655	chr11:5394183-5394203	1	21	SNP	100.0	1	0
+rs2555160	chr11:6516448-6516468	1	21	SNP	100.0	1	0
+rs2595972	chr11:4951356-4951376	1	21	SNP	100.0	1	0
+rs2880580	chr11:5722397-5722417	1	21	SNP	100.0	1	0
+rs4360724	chr11:5722420-5722440	1	21	SNP	100.0	1	0
+rs4604919	chr11:5722636-5722656	1	21	SNP	100.0	1	0
+rs4910628	chr11:4571772-4571792	1	21	SNP	100.0	1	0
+rs4910694	chr11:4987455-4987475	1	21	SNP	100.0	1	0
+rs4910982	chr11:4466144-4466164	1	21	SNP	100.0	1	0
+rs7121240	chr11:6552282-6552302	1	21	SNP	100.0	1	0
+rs7948668	chr11:5256637-5256657	1	21	SNP	100.0	1	0

@@ -1,0 +1,59 @@
+# File Summary
+File Type: SureSelect DNA Design Report
+Created By: SureSelect DNA Probegroup Wizard
+User: Suzanne.Drury@gosh.nhs.uk
+Workgroup: GOSH-Regional Molecular Genetics
+Folder: GOSH-Regional Molecular Genetics
+Timestamp: 21-Apr-2015
+
+# Design Summary
+Probegroup Name: HBB_SNPs_v2_Coord
+Species: H. sapiens (H. sapiens, hg19, GRCh37, February 2009)
+
+# Target Summary
+13 Target IDs resolved to 13 targets comprising 13 regions.
+0 Target IDs were not found.
+Region Size: 25 bp
+
+# Probe Summary
+Total Probes: 34
+Total Probes Size: 1.379 kbp
+Recommended Minimum Sequencing per Sample: 275.800 kbp
+
+# Target Parameters
+Databases: RefSeq, Ensembl, CCDS, Gencode, VEGA, SNP, CytoBand
+Region: Coding Exons
+Region Extension: 10 bases from 3' end and 10 bases from 5' end.
+Allow Synonyms: No
+
+# Probe Tiling Parameters
+Tiling density: 5x
+Masking: Most Stringent
+Boosting: MaximizePerformance
+Extension into repeats: 20
+Strand: Sense
+
+# Target and Probe Details
+#    TargetID: The identifier entered in the Targets list.
+#    Interval: The genomic interval of the target.
+#    Regions: The number of regions within this target.
+#    Size: The total size (in base pairs) of the regions.
+#    Database(s): The databases in which this target was found.
+#    Coverage: The percentage of bases overlapped by probes extended by +/- 100 base pairs to represent likely capture.
+#    HighCoverage: Number of regions with overlap >= 90%.
+#    LowCoverage: Number of regions with overlap < 90%.
+
+TargetID	Interval	Regions	Size	Databases	Coverage	HighCoverage	LowCoverage
+chr11:4786107-4786108	chr11:4786107-4786108	1	2	CustomRegion	0.0	0	1
+chr11:4815462-4815463	chr11:4815462-4815463	1	2	CustomRegion	100.0	1	0
+chr11:4897974-4897975	chr11:4897974-4897975	1	2	CustomRegion	100.0	1	0
+chr11:4897975-4897976	chr11:4897975-4897976	1	2	CustomRegion	100.0	1	0
+chr11:4943609-4943610	chr11:4943609-4943610	1	2	CustomRegion	100.0	1	0
+chr11:5639069-5639070	chr11:5639069-5639070	1	2	CustomRegion	0.0	0	1
+chr11:5674087-5674088	chr11:5674087-5674088	1	2	CustomRegion	0.0	0	1
+chr11:5689544-5689545	chr11:5689544-5689545	1	2	CustomRegion	100.0	1	0
+chr11:5696432-5696433	chr11:5696432-5696433	1	2	CustomRegion	0.0	0	1
+chr11:5696435-5696436	chr11:5696435-5696436	1	2	CustomRegion	0.0	0	1
+chr11:5701990-5701991	chr11:5701990-5701991	1	2	CustomRegion	100.0	1	0
+chr11:5702210-5702211	chr11:5702210-5702211	1	2	CustomRegion	100.0	1	0
+chr11:5745297-5745298	chr11:5745297-5745298	1	2	CustomRegion	100.0	1	0

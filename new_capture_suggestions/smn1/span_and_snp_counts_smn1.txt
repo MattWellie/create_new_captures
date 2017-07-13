@@ -1,0 +1,180 @@
+6482 SNPs where +-4mb bases, af thresholds 0.25 - 0.75, span sep30
+	split around the midpoint is 3376:3106 (ratio: 1.08692852543)
+
+8326 SNPs where +-5mb bases, af thresholds 0.25 - 0.75, span sep30
+	split around the midpoint is 4233:4093 (ratio: 1.0342047398)
+
+10140 SNPs where +-6mb bases, af thresholds 0.25 - 0.75, span sep30
+	split around the midpoint is 5020:5120 (ratio: 1.01992031873)
+
+12065 SNPs where +-7mb bases, af thresholds 0.25 - 0.75, span sep30
+	split around the midpoint is 6014:6051 (ratio: 1.00615231127)
+
+13691 SNPs where +-8mb bases, af thresholds 0.25 - 0.75, span sep30
+	split around the midpoint is 6646:7045 (ratio: 1.06003611195)
+
+6284 SNPs where +-4mb bases, af thresholds 0.25 - 0.75, span sep50
+	split around the midpoint is 3259:3025 (ratio: 1.0773553719)
+
+8079 SNPs where +-5mb bases, af thresholds 0.25 - 0.75, span sep50
+	split around the midpoint is 4102:3977 (ratio: 1.03143072668)
+
+9841 SNPs where +-6mb bases, af thresholds 0.25 - 0.75, span sep50
+	split around the midpoint is 4869:4972 (ratio: 1.02115424112)
+
+11721 SNPs where +-7mb bases, af thresholds 0.25 - 0.75, span sep50
+	split around the midpoint is 5842:5879 (ratio: 1.00633344745)
+
+13303 SNPs where +-8mb bases, af thresholds 0.25 - 0.75, span sep50
+	split around the midpoint is 6460:6843 (ratio: 1.0592879257)
+
+6136 SNPs where +-4mb bases, af thresholds 0.25 - 0.75, span sep70
+	split around the midpoint is 3185:2951 (ratio: 1.07929515419)
+
+7871 SNPs where +-5mb bases, af thresholds 0.25 - 0.75, span sep70
+	split around the midpoint is 4006:3865 (ratio: 1.03648124191)
+
+9584 SNPs where +-6mb bases, af thresholds 0.25 - 0.75, span sep70
+	split around the midpoint is 4757:4827 (ratio: 1.01471515661)
+
+11407 SNPs where +-7mb bases, af thresholds 0.25 - 0.75, span sep70
+	split around the midpoint is 5700:5707 (ratio: 1.00122807018)
+
+12959 SNPs where +-8mb bases, af thresholds 0.25 - 0.75, span sep70
+	split around the midpoint is 6307:6652 (ratio: 1.05470112573)
+
+3815 SNPs where +-4mb bases, af thresholds 0.35 - 0.65, span sep30
+	split around the midpoint is 2001:1814 (ratio: 1.10308710033)
+
+5021 SNPs where +-5mb bases, af thresholds 0.35 - 0.65, span sep30
+	split around the midpoint is 2562:2459 (ratio: 1.04188694591)
+
+6205 SNPs where +-6mb bases, af thresholds 0.35 - 0.65, span sep30
+	split around the midpoint is 3042:3163 (ratio: 1.03977646285)
+
+7257 SNPs where +-7mb bases, af thresholds 0.35 - 0.65, span sep30
+	split around the midpoint is 3571:3686 (ratio: 1.03220386446)
+
+8218 SNPs where +-8mb bases, af thresholds 0.35 - 0.65, span sep30
+	split around the midpoint is 3965:4253 (ratio: 1.07263556116)
+
+3716 SNPs where +-4mb bases, af thresholds 0.35 - 0.65, span sep50
+	split around the midpoint is 1936:1780 (ratio: 1.08764044944)
+
+4898 SNPs where +-5mb bases, af thresholds 0.35 - 0.65, span sep50
+	split around the midpoint is 2489:2409 (ratio: 1.03320880033)
+
+6051 SNPs where +-6mb bases, af thresholds 0.35 - 0.65, span sep50
+	split around the midpoint is 2958:3093 (ratio: 1.04563894523)
+
+7083 SNPs where +-7mb bases, af thresholds 0.35 - 0.65, span sep50
+	split around the midpoint is 3477:3606 (ratio: 1.03710094909)
+
+8022 SNPs where +-8mb bases, af thresholds 0.35 - 0.65, span sep50
+	split around the midpoint is 3863:4159 (ratio: 1.07662438519)
+
+3636 SNPs where +-4mb bases, af thresholds 0.35 - 0.65, span sep70
+	split around the midpoint is 1894:1742 (ratio: 1.08725602755)
+
+4787 SNPs where +-5mb bases, af thresholds 0.35 - 0.65, span sep70
+	split around the midpoint is 2434:2353 (ratio: 1.0344241394)
+
+5908 SNPs where +-6mb bases, af thresholds 0.35 - 0.65, span sep70
+	split around the midpoint is 2891:3017 (ratio: 1.04358353511)
+
+6925 SNPs where +-7mb bases, af thresholds 0.35 - 0.65, span sep70
+	split around the midpoint is 3403:3522 (ratio: 1.03496914487)
+
+7848 SNPs where +-8mb bases, af thresholds 0.35 - 0.65, span sep70
+	split around the midpoint is 3780:4068 (ratio: 1.07619047619)
+
+5190 SNPs where +-4mb bases, af thresholds 0.3 - 0.7, span sep30
+	split around the midpoint is 2653:2537 (ratio: 1.04572329523)
+
+6714 SNPs where +-5mb bases, af thresholds 0.3 - 0.7, span sep30
+	split around the midpoint is 3356:3358 (ratio: 1.00059594756)
+
+8141 SNPs where +-6mb bases, af thresholds 0.3 - 0.7, span sep30
+	split around the midpoint is 3918:4223 (ratio: 1.07784583971)
+
+9541 SNPs where +-7mb bases, af thresholds 0.3 - 0.7, span sep30
+	split around the midpoint is 4621:4920 (ratio: 1.06470460939)
+
+10774 SNPs where +-8mb bases, af thresholds 0.3 - 0.7, span sep30
+	split around the midpoint is 5124:5650 (ratio: 1.10265417642)
+
+5046 SNPs where +-4mb bases, af thresholds 0.3 - 0.7, span sep50
+	split around the midpoint is 2565:2481 (ratio: 1.0338573156)
+
+6527 SNPs where +-5mb bases, af thresholds 0.3 - 0.7, span sep50
+	split around the midpoint is 3256:3271 (ratio: 1.00460687961)
+
+7912 SNPs where +-6mb bases, af thresholds 0.3 - 0.7, span sep50
+	split around the midpoint is 3802:4110 (ratio: 1.08100999474)
+
+9279 SNPs where +-7mb bases, af thresholds 0.3 - 0.7, span sep50
+	split around the midpoint is 4492:4787 (ratio: 1.06567230632)
+
+10483 SNPs where +-8mb bases, af thresholds 0.3 - 0.7, span sep50
+	split around the midpoint is 4984:5499 (ratio: 1.10333065811)
+
+4936 SNPs where +-4mb bases, af thresholds 0.3 - 0.7, span sep70
+	split around the midpoint is 2509:2427 (ratio: 1.03378656778)
+
+6368 SNPs where +-5mb bases, af thresholds 0.3 - 0.7, span sep70
+	split around the midpoint is 3182:3186 (ratio: 1.00125707102)
+
+7713 SNPs where +-6mb bases, af thresholds 0.3 - 0.7, span sep70
+	split around the midpoint is 3713:4000 (ratio: 1.07729598707)
+
+9045 SNPs where +-7mb bases, af thresholds 0.3 - 0.7, span sep70
+	split around the midpoint is 4386:4659 (ratio: 1.06224350205)
+
+10229 SNPs where +-8mb bases, af thresholds 0.3 - 0.7, span sep70
+	split around the midpoint is 4869:5360 (ratio: 1.10084206203)
+
+2556 SNPs where +-4mb bases, af thresholds 0.4 - 0.6, span sep30
+	split around the midpoint is 1254:1302 (ratio: 1.03827751196)
+
+3330 SNPs where +-5mb bases, af thresholds 0.4 - 0.6, span sep30
+	split around the midpoint is 1536:1794 (ratio: 1.16796875)
+
+4132 SNPs where +-6mb bases, af thresholds 0.4 - 0.6, span sep30
+	split around the midpoint is 1897:2235 (ratio: 1.17817606747)
+
+4847 SNPs where +-7mb bases, af thresholds 0.4 - 0.6, span sep30
+	split around the midpoint is 2261:2586 (ratio: 1.14374170721)
+
+5469 SNPs where +-8mb bases, af thresholds 0.4 - 0.6, span sep30
+	split around the midpoint is 2537:2932 (ratio: 1.15569570359)
+
+2490 SNPs where +-4mb bases, af thresholds 0.4 - 0.6, span sep50
+	split around the midpoint is 1213:1277 (ratio: 1.05276174773)
+
+3246 SNPs where +-5mb bases, af thresholds 0.4 - 0.6, span sep50
+	split around the midpoint is 1490:1756 (ratio: 1.17852348993)
+
+4029 SNPs where +-6mb bases, af thresholds 0.4 - 0.6, span sep50
+	split around the midpoint is 1843:2186 (ratio: 1.18610960391)
+
+4732 SNPs where +-7mb bases, af thresholds 0.4 - 0.6, span sep50
+	split around the midpoint is 2201:2531 (ratio: 1.14993184916)
+
+5343 SNPs where +-8mb bases, af thresholds 0.4 - 0.6, span sep50
+	split around the midpoint is 2471:2872 (ratio: 1.16228247673)
+
+2444 SNPs where +-4mb bases, af thresholds 0.4 - 0.6, span sep70
+	split around the midpoint is 1190:1254 (ratio: 1.05378151261)
+
+3182 SNPs where +-5mb bases, af thresholds 0.4 - 0.6, span sep70
+	split around the midpoint is 1459:1723 (ratio: 1.18094585332)
+
+3950 SNPs where +-6mb bases, af thresholds 0.4 - 0.6, span sep70
+	split around the midpoint is 1807:2143 (ratio: 1.18594355285)
+
+4643 SNPs where +-7mb bases, af thresholds 0.4 - 0.6, span sep70
+	split around the midpoint is 2162:2481 (ratio: 1.14754856614)
+
+5243 SNPs where +-8mb bases, af thresholds 0.4 - 0.6, span sep70
+	split around the midpoint is 2425:2818 (ratio: 1.16206185567)
+

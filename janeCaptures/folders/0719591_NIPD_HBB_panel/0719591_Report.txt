@@ -1,0 +1,28 @@
+# File Summary
+File Type: SureSelect DNA Design Report
+Created By: SureSelect DNA Advanced Design Wizard
+User: Suzanne.Drury@gosh.nhs.uk
+Workgroup: GOSH-Regional Molecular Genetics
+Folder: GOSH-Regional Molecular Genetics
+Timestamp: 17-Dec-2014
+
+# Design Summary
+Design Name: NIPD - HBB panel
+Species: H. sapiens (H. sapiens, hg19, GRCh37, February 2009)
+
+# Probegroup Summary
+Number of Probegroups: 7
+Probegroup 1 : NIPD - HLA
+Probegroup 2 : NIPD - sexing
+Probegroup 3 : NIPD - HBB
+Probegroup 4 : NIPD - RhD
+Probegroup 5 : NIPD - HBB SNPs Max stringency
+Probegroup 6 : NIPD - HBB SNPs moderate stringency
+Probegroup 7 : NIPD - HBB SNPs low stringency
+
+# Probe Summary
+Total Probes: 57024
+Total Probes Size: 27.190 kbp
+Recommended Minimum Sequencing per Sample: 5.438 Mbp
+Pricing: Tier 1 (Probe Region Size = 0 - 499 kbp; up to 57.5K probes)
+

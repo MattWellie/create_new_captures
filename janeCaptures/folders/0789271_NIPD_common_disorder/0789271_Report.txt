@@ -1,0 +1,33 @@
+# File Summary
+File Type: SureSelect DNA Design Report
+Created By: SureSelect DNA Advanced Design Wizard
+User: Suzanne.Drury@gosh.nhs.uk
+Workgroup: GOSH-Regional Molecular Genetics
+Folder: GOSH-Regional Molecular Genetics
+Timestamp: 14-Oct-2015
+
+# Design Summary
+Design Name: NIPD_Common_disorder
+Species: H. sapiens (H. sapiens, hg19, GRCh37, February 2009)
+
+# Probegroup Summary
+Number of Probegroups: 12
+Probegroup 1 : CFTR_coding_exons
+Probegroup 2 : SMN1_SMN2_All_variants
+Probegroup 3 : NIPD - HLA
+Probegroup 4 : NIPD - sexing
+Probegroup 5 : NIPD - HBB
+Probegroup 6 : NIPD - RhD
+Probegroup 7 : NIPD - HBB SNPs Max stringency
+Probegroup 8 : NIPD - HBB SNPs moderate stringency
+Probegroup 9 : NIPD - HBB SNPs low stringency
+Probegroup 10 : CFTR_intron
+Probegroup 11 : NIPD-CFTR-SNPs_1
+Probegroup 12 : SMN1_SMN2_All_Variants_Moderate
+
+# Probe Summary
+Total Probes: 50224
+Total Probes Size: 472.284 kbp
+Recommended Minimum Sequencing per Sample: 94.456 Mbp
+Pricing: Tier 1 (Probe Region Size = 0 - 499 kbp; up to 57.5K probes)
+

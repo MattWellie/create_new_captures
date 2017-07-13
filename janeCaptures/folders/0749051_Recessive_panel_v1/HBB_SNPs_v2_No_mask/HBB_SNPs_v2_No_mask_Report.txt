@@ -1,0 +1,88 @@
+# File Summary
+File Type: SureSelect DNA Design Report
+Created By: SureSelect DNA Probegroup Wizard
+User: Suzanne.Drury@gosh.nhs.uk
+Workgroup: GOSH-Regional Molecular Genetics
+Folder: GOSH-Regional Molecular Genetics
+Timestamp: 21-Apr-2015
+
+# Design Summary
+Probegroup Name: HBB_SNPs_v2_No_mask
+Species: H. sapiens (H. sapiens, hg19, GRCh37, February 2009)
+
+# Target Summary
+42 Target IDs resolved to 42 targets comprising 42 regions.
+0 Target IDs were not found.
+Region Size: 833 bp
+
+# Probe Summary
+Total Probes: 232
+Total Probes Size: 6.533 kbp
+Recommended Minimum Sequencing per Sample: 1.306 Mbp
+
+# Target Parameters
+Databases: RefSeq, Ensembl, CCDS, Gencode, VEGA, SNP, CytoBand
+Region: Coding Exons
+Region Extension: 10 bases from 3' end and 10 bases from 5' end.
+Allow Synonyms: No
+
+# Probe Tiling Parameters
+Tiling density: 5x
+Masking: No Masking
+Boosting: MaximizePerformance
+Extension into repeats: 20
+Strand: Sense
+
+# Target and Probe Details
+#    TargetID: The identifier entered in the Targets list.
+#    Interval: The genomic interval of the target.
+#    Regions: The number of regions within this target.
+#    Size: The total size (in base pairs) of the regions.
+#    Database(s): The databases in which this target was found.
+#    Coverage: The percentage of bases overlapped by probes extended by +/- 100 base pairs to represent likely capture.
+#    HighCoverage: Number of regions with overlap >= 90%.
+#    LowCoverage: Number of regions with overlap < 90%.
+
+TargetID	Interval	Regions	Size	Databases	Coverage	HighCoverage	LowCoverage
+rs10466462	chr11:4828571-4828591	1	21	SNP	100.0	1	0
+rs10769127	chr11:5637404-5637424	1	21	SNP	100.0	1	0
+rs10769185	chr11:5724782-5724802	1	21	SNP	100.0	1	0
+rs10838548	chr11:5719085-5719105	1	21	SNP	100.0	1	0
+rs10838583	chr11:5738232-5738252	1	21	SNP	100.0	1	0
+rs11038718	chr11:5708527-5708547	1	21	SNP	100.0	1	0
+rs12221714	chr11:5639460-5639480	1	21	SNP	100.0	1	0
+rs12226096	chr11:4761686-4761706	1	21	SNP	100.0	1	0
+rs12271489	chr11:5639558-5639578	1	21	SNP	100.0	1	0
+rs12284287	chr11:5639494-5639514	1	21	SNP	100.0	1	0
+rs12786295	chr11:5714757-5714777	1	21	SNP	100.0	1	0
+rs12790122	chr11:5669643-5669663	1	21	SNP	100.0	1	0
+rs12799127	chr11:5704210-5704230	1	21	SNP	100.0	1	0
+rs12800584	chr11:5704200-5704220	1	21	SNP	100.0	1	0
+rs12800585	chr11:5704202-5704222	1	21	SNP	100.0	1	0
+rs12808282	chr11:4889673-4889693	1	21	SNP	100.0	1	0
+rs141988930	chr11:5736917-5736937	1	21	SNP	100.0	1	0
+rs1814720	chr11:5705297-5705317	1	21	SNP	100.0	1	0
+rs1814722	chr11:5705344-5705364	1	21	SNP	100.0	1	0
+rs2030095	chr11:5638156-5638176	1	21	SNP	100.0	1	0
+rs2030096	chr11:5638143-5638163	1	21	SNP	100.0	1	0
+rs2342378	chr11:5660745-5660765	1	21	SNP	100.0	1	0
+rs36084911	chr11:5691547-5691567	1	21	SNP	100.0	1	0
+rs4575305	chr11:5703313-5703333	1	21	SNP	100.0	1	0
+rs4625503	chr11:5712516-5712536	1	21	SNP	100.0	1	0
+rs4910833	chr11:5669493-5669513	1	21	SNP	100.0	1	0
+rs4910838	chr11:5724667-5724687	1	21	SNP	100.0	1	0
+rs57332499	chr11:4758690-4758710	1	21	SNP	100.0	1	0
+rs61363160	chr11:5703104-5703124	1	21	SNP	100.0	1	0
+rs6578674	chr11:5704809-5704829	1	21	SNP	100.0	1	0
+rs6578675	chr11:5705121-5705141	1	21	SNP	100.0	1	0
+rs6578676	chr11:5705135-5705155	1	21	SNP	100.0	1	0
+rs6578677	chr11:5705154-5705174	1	21	SNP	100.0	1	0
+rs7131278	chr11:5736359-5736379	1	21	SNP	100.0	1	0
+rs71490144	chr11:5691496-5691516	1	21	SNP	100.0	1	0
+rs71490145	chr11:5691518-5691538	1	21	SNP	100.0	1	0
+rs7932400	chr11:5641140-5641160	1	21	SNP	100.0	1	0
+rs7933423	chr11:4822766-4822786	1	21	SNP	100.0	1	0
+rs7947253	chr11:5674078-5674098	1	21	SNP	100.0	1	0
+rs7947538	chr11:5638771-5638791	1	21	SNP	100.0	1	0
+rs7947552	chr11:5638811-5638831	1	21	SNP	100.0	1	0
+rs7950170	chr11:5680142-5680162	1	21	SNP	100.0	1	0

@@ -1,0 +1,15 @@
+# File Type: Input Targets File 
+# Timestamp: 08-Apr-2015 
+# User: Suzanne.Drury@gosh.nhs.uk 
+# Created By: SureSelect DNA Probegroup Wizard 
+# Species: H. sapiens (H. sapiens, hg19, GRCh37, February 2009)
+
+# Not Found IDs
+
+# Found IDs
+RAG1
+IL2RG
+CFTR
+RAG2
+ADA
+IDUA

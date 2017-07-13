@@ -1,0 +1,49 @@
+# File Summary
+File Type: SureSelect DNA Design Report
+Created By: SureSelect DNA Probegroup Wizard
+User: Suzanne.Drury@gosh.nhs.uk
+Workgroup: GOSH-Regional Molecular Genetics
+Folder: GOSH-Regional Molecular Genetics
+Timestamp: 08-Apr-2015
+
+# Design Summary
+Probegroup Name: NIPD-IL2RG_non-coding
+Species: H. sapiens (H. sapiens, hg19, GRCh37, February 2009)
+
+# Target Summary
+3 Target IDs resolved to 3 targets comprising 3 regions.
+0 Target IDs were not found.
+Region Size: 1.219 kbp
+
+# Probe Summary
+Total Probes: 44
+Total Probes Size: 1.296 kbp
+Recommended Minimum Sequencing per Sample: 259.200 kbp
+
+# Target Parameters
+Databases: RefSeq, Ensembl, CCDS, Gencode, VEGA, SNP, CytoBand
+Region: Coding Exons
+Region Extension: 10 bases from 3' end and 10 bases from 5' end.
+Allow Synonyms: No
+
+# Probe Tiling Parameters
+Tiling density: 5x
+Masking: Most Stringent
+Boosting: MaximizePerformance
+Extension into repeats: 20
+Strand: Sense
+
+# Target and Probe Details
+#    TargetID: The identifier entered in the Targets list.
+#    Interval: The genomic interval of the target.
+#    Regions: The number of regions within this target.
+#    Size: The total size (in base pairs) of the regions.
+#    Database(s): The databases in which this target was found.
+#    Coverage: The percentage of bases overlapped by probes extended by +/- 100 base pairs to represent likely capture.
+#    HighCoverage: Number of regions with overlap >= 90%.
+#    LowCoverage: Number of regions with overlap < 90%.
+
+TargetID	Interval	Regions	Size	Databases	Coverage	HighCoverage	LowCoverage
+chrx:70327278-70327278	chrx:70327278-70327278	1	1	CustomRegion	100.0	1	0
+chrx:70327783-70328268	chrx:70327783-70328268	1	486	CustomRegion	100.0	1	0
+chrx:70328939-70329670	chrx:70328939-70329670	1	732	CustomRegion	92.21311	1	0

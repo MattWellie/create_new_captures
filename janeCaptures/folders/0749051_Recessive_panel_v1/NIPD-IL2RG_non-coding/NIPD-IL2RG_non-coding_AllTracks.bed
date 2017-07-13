@@ -1,0 +1,11 @@
+browser position chrx:70327278-70327278
+track name="Target Regions" description="Agilent SureSelect DNA - NIPD-IL2RG_non-coding - Target regions of interest given as input to probe selection" color=0,128,0
+chrX	70327277	70327278	chrx:70327278-70327278
+chrX	70327782	70328268	chrx:70327783-70328268
+chrX	70328938	70329670	chrx:70328939-70329670
+track name="Missed Regions" description="Agilent SureSelect DNA - NIPD-IL2RG_non-coding - Target regions of interest that will not be sequenced" color=128,0,0
+chrX	70329513	70329670	chrx:70328939-70329670
+track name="Covered probes" description="Agilent SureSelect DNA - NIPD-IL2RG_non-coding - Genomic regions expected to be sequenced" color=0,128,0
+chrX	70327119	70327335	chrx:70327278-70327278
+chrX	70327773	70328277	chrx:70327783-70328268
+chrX	70328937	70329513	chrx:70328939-70329670

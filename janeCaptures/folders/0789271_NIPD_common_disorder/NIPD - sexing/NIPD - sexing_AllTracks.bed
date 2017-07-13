@@ -1,0 +1,10 @@
+browser position chrx:24197319-24197615
+track name="Target Regions" description="Agilent SureSelect DNA - NIPD - sexing - Target regions of interest given as input to probe selection" color=0,128,0
+chrX	24197318	24197615	chrx:24197319-24197615
+chrY	2655215	2655615	chry:2655216-2655615
+chrY	2829133	2829433	chry:2829134-2829433
+track name="Missed Regions" description="Agilent SureSelect DNA - NIPD - sexing - Target regions of interest that will not be sequenced" color=128,0,0
+track name="Covered probes" description="Agilent SureSelect DNA - NIPD - sexing - Genomic regions expected to be sequenced" color=0,128,0
+chrX	24197310	24197622	chrx:24197319-24197615
+chrY	2655211	2655619	chry:2655216-2655615
+chrY	2829127	2829439	chry:2829134-2829433

@@ -1,0 +1,8 @@
+browser position chr1:25627992-25628197
+track name="Target Regions" description="Agilent SureSelect DNA - NIPD - RhD - Target regions of interest given as input to probe selection" color=0,128,0
+chr1	25627991	25628197	chr1:25627992-25628197
+chr1	25633067	25633240	chr1:25633068-25633240
+track name="Missed Regions" description="Agilent SureSelect DNA - NIPD - RhD - Target regions of interest that will not be sequenced" color=128,0,0
+track name="Covered probes" description="Agilent SureSelect DNA - NIPD - RhD - Genomic regions expected to be sequenced" color=0,128,0
+chr1	25627938	25628250	chr1:25627992-25628197
+chr1	25633009	25633297	chr1:25633068-25633240

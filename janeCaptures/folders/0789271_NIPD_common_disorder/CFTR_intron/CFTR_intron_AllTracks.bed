@@ -1,0 +1,6 @@
+browser position chr7:117280015-117280016
+track name="Target Regions" description="Agilent SureSelect DNA - CFTR_intron - Target regions of interest given as input to probe selection" color=0,128,0
+chr7	117280014	117280016	chr7:117280015-117280016
+track name="Missed Regions" description="Agilent SureSelect DNA - CFTR_intron - Target regions of interest that will not be sequenced" color=128,0,0
+track name="Covered probes" description="Agilent SureSelect DNA - CFTR_intron - Genomic regions expected to be sequenced" color=0,128,0
+chr7	117279907	117280123	chr7:117280015-117280016
