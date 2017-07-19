@@ -41,7 +41,7 @@ prev_pos = 0
 # open both in and out file-handles to ensure file size is no limitation
 snp_count = 0
 
-with open(outfile, 'w') as outhandle:
+with open(outfile, 'a') as outhandle:
 
     # print headers out
     print >>outhandle, '\t'.join(cols)

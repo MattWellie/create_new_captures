@@ -2,7 +2,7 @@ import sys
 
 file_out = sys.argv[1]
 
-with open(file_out, 'w') as handle:
+with open(file_out, 'a') as handle:
 
     for line in sys.stdin:
 
