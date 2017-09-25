@@ -9,6 +9,9 @@ This will receive a few arguments:
     output file name (default to an alteration of the input?)
     selection radius (e.g. 0.15 would create the boundaries 0.5-0.15 : 0.5+0.15 = 0.35:0.65)
     separation minimum (e.g. for 20, SNPs within 20bp will not be selected
+    
+The output will be written out as
+    chrN    start   stop    rsID
 """
 
 
@@ -42,34 +45,36 @@ prev_pos = 0
 # open both in and out file-handles to ensure file size is no limitation
 snp_count = 0
 
+# create an outfile to write to
 with open(outfile, 'a') as outhandle:
-
-    # print headers out
-    print >>outhandle, '\t'.join(cols)
 
     # create a dictionary based on the row and headers (checked working for Gnomad, may differ for 1000G)
     for row in sys.stdin:
 
-        drow = dict(zip(cols, row.split()))
+        row_dict = dict(zip(cols, row.split()))
 
         # only take variants which have passed on all filters
-        if drow['FILTER'].rstrip() != 'PASS':
+        if row_dict['FILTER'].rstrip() != 'PASS':
             continue
 
         # reject any multi-allelic SNPs
-        if ',' in drow['ALT']:
+        if ',' in row_dict['ALT']:
             continue
 
         # reject any multi-allelic SNPs
-        if len(drow['ALT']) != 1:
+        if len(row_dict['ALT']) != 1:
             continue
 
         # reject any multi-allelic SNPs
-        if len(drow['REF']) != 1:
+        if len(row_dict['REF']) != 1:
+            continue
+
+        # reject any SNPs without IDs - maybe don't do this? Any high frequency SNPs should have an rsID value
+        if row_dict['ID'].rstrip() == '.' or row_dict['ID'].rstrip() == '':
             continue
 
         # get the annotation entry, which will have all available gnomad details
-        annot = drow['INFO']
+        annot = row_dict['INFO']
 
         # get the second element from the ';' delimited data - allele freq in n.8-eX notation. cast as a float
         af = float(annot.split(';')[1].replace('AF=', ''))
@@ -78,20 +83,24 @@ with open(outfile, 'a') as outhandle:
         if low_af_threshold <= af <= hi_af_threshold:
 
             # if so, take the allele freq in the file as a String to write into the output
-            drow['INFO'] = str(af)
+            row_dict['INFO'] = str(af)
 
             # check whether the previous SNP position is too close to this SNP. this is done here to ensure that
             # only the SNPs that will be written to the output file are considered for proximity... Gnomad has a SNP
             # at almost every position so checking separation before filter means most are never considered for AF
             if prev_pos == 0:
-                prev_pos = int(drow['POS'])
-            elif (prev_pos + separation) > int(drow['POS']):
+                prev_pos = int(row_dict['POS'])
+            elif (prev_pos + separation) > int(row_dict['POS']):
                 continue
             else:
-                prev_pos = int(drow['POS'])
+                prev_pos = int(row_dict['POS'])
 
             # print dat shit to the output file
-            print >>outhandle, '\t'.join([drow[x] for x in cols])
+            print >>outhandle, '\t'.join(['chr{}'.format(row_dict['#CHROM']),
+                                          row_dict['POS'],
+                                          str(int(row_dict['POS']) + 1),
+                                          row_dict['ID']]
+                                         )
             snp_count += 1
 
 print '{} SNPs kept after filtering'.format(snp_count)

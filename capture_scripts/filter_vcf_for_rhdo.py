@@ -1,5 +1,4 @@
 from argparse import ArgumentParser
-import sys
 
 """
 This script will take a VCF file (Gnomad, pre-filtered to a region of interest), and filter this dataset according to 
